@@ -8,7 +8,7 @@ crypto==1.4.1
 cryptography==2.8
 docopt==0.6.2
 idna==2.9
-lxml==4.5.0
+lxml==4.6.2
 Naked==0.1.31
 pipreqs==0.4.10
 pycparser==2.20
