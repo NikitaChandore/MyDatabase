@@ -13,7 +13,7 @@ Naked==0.1.31
 pipreqs==0.4.10
 pycparser==2.20
 pygame==1.9.6
-PyYAML==5.3.1
+PyYAML==5.4
 requests==2.23.0
 shellescape==3.8.1
 six==1.12.0
